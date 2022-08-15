@@ -9,6 +9,8 @@ Lembra de colocar o index.php dentro de um servidor que rode o php.<br>
 
 <h2>Baixar o script noticias.sh para /root/noticias</h2>
 <code>wget https://raw.githubusercontent.com/byosni/azuracast/main/noticias.sh</code>
+<p>Ajustar a URL do script apontando para o seu domínio onde está hospedado o arquivo PHP.<br>
+O script baixa a noticia em audio e coloca dentro da pasta azuracast, precisa também ajustar esta pasta dentro deste script</p>
 
 <h2>Dar permissão para o arquivo</h2>
 <code>chmod +x noticias.sh</code>
