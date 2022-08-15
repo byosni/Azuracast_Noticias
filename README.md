@@ -1,6 +1,8 @@
 <h1>Noticias Para RádioWeb </h1>
 
-Script para baixar audio de noticias<br> 
+Script para baixar audio de noticias do site agenciabrasil.ebc.com.br<br> 
+Lembra de colocar o index.php dentro de um servidor que rode o php.<br>
+
 
 <h2>Criar uma Pasta: /root/noticias em seu servidor com AzuraCast.</h2>
 <code>mkdir /root/noticias && cd /root/noticias</code>
